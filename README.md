@@ -74,3 +74,10 @@ This quote highlights the ongoing challenge that programmers face in creating us
 
 # 2023-12-04
 - "Keep it simple, stupid!"
+
+# 2023-12-05
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project goals. You can use techniques such as the MoSCoW method (Must have, Should have and Could have) to categorize your task and prioritize them accordingly. 
+ - MoScW方法是一种用于任务优先级分类的方法，它将任务分为四类：必须完成的任务、应该完成但不影响大局的任务，可以推迟的任务和可以删除的任务。
+- 使用这种方法，你可以确保优先处理最重要的任务，从而提高工作效率。 。
