@@ -81,3 +81,8 @@ This quote highlights the ongoing challenge that programmers face in creating us
 First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project goals. You can use techniques such as the MoSCoW method (Must have, Should have and Could have) to categorize your task and prioritize them accordingly. 
  - MoScW方法是一种用于任务优先级分类的方法，它将任务分为四类：必须完成的任务、应该完成但不影响大局的任务，可以推迟的任务和可以删除的任务。
 - 使用这种方法，你可以确保优先处理最重要的任务，从而提高工作效率。 。
+
+# 2023-12-06
+- Today's programming wisdom is: "Premature optimization is the root of all evil." - Donald Knuth. 
+
+This quote reminds us that optimizing code before it's necessary can lead to overly complex and difficult-to-maintain code. It's better to write clear, simple code first and optimize only when profiling indicates a specific performance bottleneck.
