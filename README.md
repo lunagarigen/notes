@@ -100,3 +100,9 @@ Focus on writing clean, readable, and maintainable code first. Optimize only whe
 
 # 2023-12-10
 - "Keep it simple, stupid!"
+
+# 2023-12-11
+- Today's programming wisdom is to always prioritize your time and focus on the most important tasks. This means breaking down your project into smaller, manageable tasks and prioritizing them based on their impact on your overall goal. By focusing on what matters most, you can efficiently allocate your resources and avoid getting sidetracked by less critical tasks or distractions.
+
+Another important aspect of programming is collaboration. Working with others can bring new ideas and perspectives, which can help you solve problems and improve your code. Be open to feedback and suggestions, and don't be afraid to ask for help when you need it. Remember that everyone is learning and growing, so there' s always something to learn from others. 
+ ..最后，保持耐心和毅力。学习编程可能很困难，但通过不断实践和努力，你会逐渐掌握所需的技能。记住，失败是成功的一部分，所以不要害怕犯错，而是从错误中学习并继续前进。
