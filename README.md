@@ -109,3 +109,6 @@ Another important aspect of programming is collaboration. Working with others ca
 
 # 2023-12-12
 - Today's programming wisdom is to write code that is simple, readable, and maintainable. It's important to remember that code is read far more often than it is written, so it's crucial to make it easy for others (and your future self) to understand what the code does and how it works. This means using clear and concise variable names, commenting your code effectively, and avoiding unnecessary complexity. Additionally, it's important to write code that is modular and reusable, as this can save time and effort in the long run. By prioritizing simplicity, readability, and maintainability, you can create code that is not only effective but also efficient and scalable.
+
+# 2023-12-13
+- "Keep it simple, stupid!"
