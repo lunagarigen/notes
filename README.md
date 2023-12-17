@@ -126,3 +126,8 @@ Second, make a plan for your day or week, breaking down larger projects into sma
 - "Premature optimization is the root of all evil" - Donald Knuth. 
 
 As a programmer, it's important to focus on writing clear and concise code first before worrying about optimizing for performance. Trying to optimize too early can lead to unnecessary complexity and bugs. It's better to write code that is easy to understand and maintain, and then optimize only when necessary.
+
+# 2023-12-17
+- "Premature optimization is the root of all evil." - Donald Knuth
+
+Optimizing code before it's necessary can lead to unnecessary complexity, harder-to-maintain code, and potentially worse performance overall. It's better to write clear, simple code first and optimize only when profiling indicates that specific parts of the code are causing performance issues.
