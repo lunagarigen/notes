@@ -186,3 +186,6 @@ This quote reminds us that while optimizing code for efficiency is important, it
 5. Adapt to change: The tech world is constantly evolving, so it’s important to be open-minded and adaptable. Learn new programming langauges and explore emerging technologies to keep your skill set up to date.    
 6. Document your work: Writing concise, well-organized code is crucial for maintaining clean and maintainable codebases. Documentation can also help others understand your code and contribute to your projects.     
 7. Solve real-world problems: Try applying your programming skills to real world problems, such as building a website, creating an app, or automating a process at work.This will help make your coding skills more practical and valuable.
+
+# 2023-12-29
+- "Keep it simple, stupid!"
