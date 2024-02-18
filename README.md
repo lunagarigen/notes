@@ -417,3 +417,15 @@ In practice, it means favoring clean architecture, adhering to established desig
 
 # 2024-02-17
 - Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, make a list of all the tasks you need to complete, then prioritize them based on their importance and urgency. Next, allocate time for each task, making sure to allow enough time so that you don't feel rushed or overwhelmed. Finally, use task management tools and programming languages to stay organised and track your progress. Remember to take breaks and keep your workspace clean, as this will also help with your productivity. By following these tips, you will be able to better manage your workload and achieve your goals more effectively.
+
+# 2024-02-18
+- "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' — Leonardo da Vinci. In coding, strive for clarity and conciseness. Write code that's easy to read, understand, and maintain. Avoid unnecessary complexity; it often leads to bugs and harder maintenance. Always keep in mind that you write code not only for machines but also for fellow human beings who will read and interact with it." 
+
+In practical terms:
+1. Choose readability over 'clever' code.
+2. Practice DRY (Don't Repeat Yourself) principle.
+3. Optimize for modularity and reusability.
+4. Comment your code effectively but aim to make it self-explanatory.
+5. Regularly refactor to improve code quality and structure.
+6. Test your code thoroughly to ensure its correctness and resilience.
+7. Remember that less code can often mean less potential for error.
