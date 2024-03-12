@@ -531,3 +531,10 @@ Another important aspect of programming wise is problem-solving. When faced with
 
 Next, make a plan for your day or week. Break down your goals into smaller tasks and schedule them accordingly. Using a planning tool, such as a calendar or task manager, can help keep you organized and on track. Be sure to allocate enough time for each task, as well as some buffer time in case things take longer than expected. 
  - 来自帮助助手
+
+# 2024-03-12
+- Today's programming wisdom is to be a lifelong learner and adapt to the ever-changing world of technology. This means staying up-to-date with the latest programming languages, tools, and frameworks. It also means being open to new ideas and approaches, as well as understanding the importance of collaboration and communication in a team environment.
+
+To stay ahead of the curve, it' s essential to read blogs, subscribe to newsletters, attend conferences, watch tutorials, participate in online forums, learn from open source projects, practice coding challenges, interview with industry experts, etc. These activities will help you build a solid foundation in programming and develop the necessary skills to succeed in your career. 
+ 此外，要成为一名成功的程序员，需要具备以下关键技能：逻辑思维能力、解决问题的能力、批判性思维能力、团队协作能力以及良好的沟通能力。这些技能将帮助你在编程世界中取得成功，并在职业生涯中不断成长。
+ 最后，保持耐心和毅力是成功的关键。编程可能会很困难，但通过不断学习和实践，你将能够克服挑战，成为一名优秀的程序员。记住，成为编程专家是一个持续的过程，而不是一次性的成就。
